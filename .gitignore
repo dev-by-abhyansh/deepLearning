@@ -1,0 +1,43 @@
+# Python environments and generated files
+.venv/
+.pptx-env/
+venv/
+water_transformer/
+**/venv/
+**/conda_env/
+**/water_transformer/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# JavaScript dependencies and build output
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+.vite/
+**/.vite/
+
+# Local credentials and editor/agent state
+.env
+.env.*
+!.env.example
+.aws/
+.codex/
+.agents/
+.vscode/
+.idea/
+
+# LaTeX build artifacts
+NLDL_report (2).pdf
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.synctex.gz
+*.toc
